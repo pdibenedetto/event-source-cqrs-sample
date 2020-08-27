@@ -32,6 +32,6 @@ class EventDescriptor {
         this.type = type;
     }
 
-    private EventDescriptor() {
+    protected EventDescriptor() {
     }
 }
